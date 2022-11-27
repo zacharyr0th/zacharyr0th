@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/zacharyroth_" target="blank"><img src="https://img.shields.io/twitter/follow/zacharyroth_?logo=twitter&style=for-the-badge" alt="zacharyroth_" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Python, Computer Science,**
+- 🌱 I’m currently learning **Javascript, Python, & Computer Science**
 
-- 💬 Ask me about **Music Theory**
+- 💬 Ask me about **My music theories**
 
-- 📫 How to reach me **zachary@pm.me**
+- 📫 Email me @ **zachary@pm.me**
 
 - ⚡ Fun fact **I play classical guitar & piano.**
 
