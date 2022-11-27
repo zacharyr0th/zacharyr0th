@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Music Theory**
 
-- 📫 How to reach me **kjfhadkfak.a8buo@simplelogin.com**
+- 📫 How to reach me **zachary@pm.me**
 
 - ⚡ Fun fact **I play classical guitar & piano.**
 
