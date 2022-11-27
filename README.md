@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, Python, & Computer Science**
 
-- 💬 Ask me about **Music Theory**
+- 💬 Ask me about **My music theory**
 
 - 📫 How to reach me **zacharyroth@pm.me**
 
