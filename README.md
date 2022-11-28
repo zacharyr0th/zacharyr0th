@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zacharyr0th" target="blank"><img src="https://img.shields.io/twitter/follow/zacharyr0th?logo=twitter&style=for-the-badge" alt="zacharyr0th" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Python, Web Dev, AI & Blockchain-architecture**
+- 🌱 I’m currently learning **Web Dev, AI, & Blockchain-architecture**
 
 - 💬 Ask me about **My music theory**
 
