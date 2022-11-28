@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacharyr0th&label=Profile%20views&color=0e75b6&style=flat" alt="zacharyr0th" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zacharyroth_" target="blank"><img src="https://img.shields.io/twitter/follow/zacharyroth_?logo=twitter&style=for-the-badge" alt="zacharyroth_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zacharyr0th" target="blank"><img src="https://img.shields.io/twitter/follow/zacharyr0th?logo=twitter&style=for-the-badge" alt="zacharyr0th" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, Python, & Computer Science**
 
