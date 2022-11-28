@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Dev, AI, & Blockchain-architecture**
 
-- 💬 Ask me about **My music theory**
+- 💬 Ask me about **mirror theory**
 
 - 📫 My Email is **zacharyroth@pm.me**
 
