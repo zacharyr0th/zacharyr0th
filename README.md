@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Web Dev, AI, & Blockchain-architecture**
 
-- 💬 Ask me about **mirror theory**
-
 - 📫 My Email is **zacharyroth@pm.me**
+
+- 💬 Ask me about **mirror theory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
