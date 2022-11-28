@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/zacharyr0th" target="blank"><img src="https://img.shields.io/twitter/follow/zacharyr0th?logo=twitter&style=for-the-badge" alt="zacharyr0th" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Python, & Computer Science**
+- 🌱 I’m currently learning **Javascript, Python, Web Dev, AI & Blockchain-architecture**
 
 - 💬 Ask me about **My music theory**
 
-- 📫 How to reach me **zacharyroth@pm.me**
+- 📫 My Email is **zacharyroth@pm.me**
 
 - ⚡ Fun fact **I play classical guitar & piano.**
 
