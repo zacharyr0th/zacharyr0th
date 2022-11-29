@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zacharyr0th" target="blank"><img src="https://img.shields.io/twitter/follow/zacharyr0th?logo=twitter&style=for-the-badge" alt="zacharyr0th" /></a> </p>
 
-- 🌱 I’m currently learning **Web, ML, and blockchain development**
+- 🌱 I’m currently learning **web development, machine learning, and blockchain development**
 
 - 📫 My Email is **z_biz+gh@simplelogin.com**
 
