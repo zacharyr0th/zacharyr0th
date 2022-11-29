@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web, ML, and blockchain development**
 
-- 📫 My Email is **zacharyroth@pm.me**
+- 📫 My Email is **z_biz/gh@simplelogin.com**
 
 - 💬 Ask me about **mirror theory**
 
