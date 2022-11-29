@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
-<h3 align="center">An aspiring full stack ML & blockchain dev from Chicago</h3>
+<h3 align="center">An aspiring full stack dev from Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacharyr0th&label=Profile%20views&color=0e75b6&style=flat" alt="zacharyr0th" /> </p>
 
