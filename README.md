@@ -2,8 +2,8 @@
 <h3 align="center">An aspiring full stack dev from Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacharyr0th&label=Profile%20views&color=0e75b6&style=flat" alt="zacharyr0th" /> </p>
+
 <p align="left"> <a href="https://twitter.com/zacharyr0th" target="blank"><img src="https://img.shields.io/twitter/follow/zacharyr0th?logo=twitter&style=for-the-badge" alt="zacharyr0th" /></a> </p>
-<p align="left"> <a href="https://zacharyroth.substack.com/" target="blank"><img src="<svg style="color: #f3da35" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Substack</title><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z" fill="#FFA500"></path></svg>" alt="zacharyr0th" /></a> </p>
 
 - 🌱 I’m currently learning about **web development and blockchain technology**
 
@@ -15,6 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/zacharyr0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zacharyr0th_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zacharyr0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zacharyrothonline" height="30" width="40" /></a>
+</p>
+<a href="[https://linkedin.com/in/zacharyr0th](https://zacharyroth.substack.com/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://avatars.githubusercontent.com/u/53023767?s=280&v=4)" alt="substack" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
