@@ -1,61 +1,40 @@
-<div align="center">
+# Zachary Roth / zacharyr0th
 
-```
-╔═══════════════════════════════════════════════════════╗
-║            ZACHARY ROTH  //  zacharyr0th              ║
-║         Engineer · Builder · Open Source              ║
-╚═══════════════════════════════════════════════════════╝
-```
+Founder & product engineer at [Raintree Technology](https://raintree.technology).
 
-</div>
+I build technical products for AI agents, developer infrastructure, and data-intensive operations: policy evals, context pipelines, knowledge graphs, and SaaS surfaces where permissions, approvals, and audit trails matter.
 
-## About
+## Current Focus
 
-I'm an engineer at **Aptos Labs** in San Francisco, focused on building tools at the intersection of DeFi, AI, and developer infrastructure. My work spans from low-level systems programming to full-stack application development, with a strong emphasis on developer experience and open tooling.
+- Agent safety, evals, and policy drift
+- Context infrastructure and developer tools
+- Data-intensive systems, graphs, and intelligence products
+- Production SaaS with scoped data, approvals, and audit trails
+- Low-level and creative software systems
 
-I believe the best software is simple, well-documented, and built in the open. I gravitate toward projects where correctness and performance matter — trading systems, protocol tooling, CLI utilities, and AI-augmented workflows. I'm deeply interested in how Move-based blockchains and large language models are reshaping what is possible in finance and software.
+## Featured Systems
 
-When not shipping code, I think about markets, music theory, and how to make complex systems legible to the people who use them.
+| System | What it shows |
+| --- | --- |
+| [PolicyStrata](https://www.zacharyr0th.com/portfolio/policystrata) | Deterministic policy-drift regression tests for LLM data-agent stacks, with [paper PDF](https://raintree.technology/papers/PolicyStrata.pdf), artifact kit, and PyPI package. |
+| [docpull](https://www.zacharyr0th.com/portfolio/docpull) | Browser-free web-to-Markdown crawler and MCP server for source-linked agent context. |
+| [BuilderGraph](https://www.zacharyr0th.com/portfolio/buildergraph) | Open-source ecosystem graph with contributor enrichment, search, APIs, and MCP tools. |
+| [cfg-eval](https://www.zacharyr0th.com/portfolio/cfg-eval) | SQL eval harness for constrained generation against live ClickHouse. |
+| [BetterOff](https://www.zacharyr0th.com/portfolio/betteroff) | Household finance SaaS with read-only connectors, cited analysis, approvals, and audit logs. |
+| [SimpleOS](https://www.zacharyr0th.com/portfolio/simple-os) | Unix-like x86 kernel with userspace, paging, syscalls, pipes, terminals, and browser boot. |
 
-## Tech Stack
+## Recent Updates
 
-### Primary Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- 2026.06.26 - [PolicyStrata](https://www.zacharyr0th.com/portfolio/policystrata): paper, reproducible artifact kit, scanner, and PyPI package.
+- 2026.06.23 - [docpull 5.0.x](https://github.com/raintree-technology/docpull/releases/tag/v5.0.2): context packs, budget contracts, provider adapters, report sharing, and local pack intelligence.
+- 2026.06.23 - [BuilderGraph](https://buildergraph.dev): Talent Maps MVP on top of the open-source ecosystem graph.
+- 2026.06.11 - [cfg-eval](https://cfg-eval.vercel.app): constrained SQL eval hardening for dropped-field and phantom-column handling.
+- 2026.02.19 - [HIG Doctor](https://apple.raintree.technology): CLI/TUI validation, CI hardening, accessibility fixes, and website updates.
 
-### Secondary Languages
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Move](https://img.shields.io/badge/Move-6E4AFF?style=flat&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+## Links
 
-### Tooling and Infra
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## Languages by Project Type
-
-| Language | Proficiency | Primary Use |
-|---|---|---|
-| TypeScript | Primary | Full-stack apps, CLIs, tooling, DeFi interfaces |
-| Rust | Primary | Systems tools, CLIs, performance-critical services |
-| Python | Primary | Data analysis, trading scripts, automation |
-| Shell | Secondary | DevOps, dotfiles, CI automation |
-| Move | Secondary | Aptos smart contracts, on-chain tooling |
-| MDX/LaTeX | Secondary | Technical writing, music theory, documentation |
-
-## Connect
-
-[![Website](https://img.shields.io/badge/zacharyr0th.com-000000?style=flat&logo=safari&logoColor=white)](https://zacharyr0th.com)
-[![X](https://img.shields.io/badge/@zacharyr0th-000000?style=flat&logo=x&logoColor=white)](https://x.com/zacharyr0th)
-[![LinkedIn](https://img.shields.io/badge/in%2Fzacharyr0th-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zacharyr0th)
-[![Clarity](https://img.shields.io/badge/useclarity.app-6E4AFF?style=flat&logoColor=white)](https://useclarity.app)
-
----
-
-<div align="center">
-  <sub>Always building. Always learning. Open to collaborating — reach out anytime.</sub>
-</div>
+- Website: [zacharyr0th.com](https://www.zacharyr0th.com)
+- Updates: [zacharyr0th.com/updates](https://www.zacharyr0th.com/updates)
+- Raintree: [raintree.technology](https://raintree.technology)
+- X: [@zacharyr0th](https://x.com/zacharyr0th)
+- LinkedIn: [in/zacharyr0th](https://www.linkedin.com/in/zacharyr0th)
