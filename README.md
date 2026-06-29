@@ -1,8 +1,8 @@
 # Zachary Roth / zacharyr0th
 
-Founder & product engineer at [Raintree Technology](https://raintree.technology).
+Founder & product engineer at [Raintree Technology](https://raintree.technology), building AI-agent infrastructure, developer tools, and data-intensive SaaS.
 
-I build technical products for AI agents, developer infrastructure, and data-intensive operations: policy evals, context pipelines, knowledge graphs, and SaaS surfaces where permissions, approvals, and audit trails matter.
+I build technical products for AI agents, developer infrastructure, and data-intensive operations: context pipelines, eval loops, policy gates, knowledge graphs, and SaaS surfaces where permissions, approvals, and audit trails matter.
 
 ## Current Focus
 
@@ -34,6 +34,7 @@ I build technical products for AI agents, developer infrastructure, and data-int
 ## Links
 
 - Website: [zacharyr0th.com](https://www.zacharyr0th.com)
+- Resume: [zacharyr0th.com/resume](https://www.zacharyr0th.com/resume)
 - Updates: [zacharyr0th.com/updates](https://www.zacharyr0th.com/updates)
 - Raintree: [raintree.technology](https://raintree.technology)
 - X: [@zacharyr0th](https://x.com/zacharyr0th)
