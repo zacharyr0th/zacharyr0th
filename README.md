@@ -6,15 +6,13 @@ I build systems where source context, permissions, evals, approvals, and audit t
 
 ## Featured Work
 
-- [PolicyStrata](https://raintree.technology/papers/PolicyStrata.pdf) - Paper, artifact kit, scanner, PyPI package
-- [docpull](https://docpull.raintree.technology) - GitHub, PyPI, release notes, benchmark
-- [BuilderGraph](https://buildergraph.dev) - Live app, GitHub, APIs, MCP tools
-- [cfg-eval](https://cfg-eval.vercel.app) - Live demo, GitHub, ClickHouse eval harness
+- [PolicyStrata](https://github.com/raintree-technology/policystrata) - Policy regression testing for LLM data-agent stacks
+- [docpull](https://github.com/raintree-technology/docpull) - AI-ready Markdown crawler, SDK, CLI, and MCP server
+- [cfg-eval](https://github.com/raintree-technology/cfg-eval) - Constrained SQL eval harness against live ClickHouse
+- [HIG Doctor](https://github.com/raintree-technology/hig-doctor) - Apple HIG audit CLI and agent skills for UI review
 
 ## Links
 
-[Portfolio](https://www.zacharyr0th.com/portfolio) · [Resume](https://www.zacharyr0th.com/resume) · [Latest Work](https://www.zacharyr0th.com/activity) · [Raintree Technology](https://raintree.technology)
-
-https://www.zacharyr0th.com · https://github.com/zacharyr0th · https://x.com/zacharyr0th · https://www.linkedin.com/in/zacharyr0th
+[zacharyr0th](https://github.com/zacharyr0th) · [raintree-technology](https://github.com/raintree-technology)
 
 <!-- Generated from zacharyr0th.com public-presence. Do not edit profile copy by hand. -->
