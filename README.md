@@ -1,23 +1,16 @@
 # Zachary Roth
 
-Applied AI product engineer building products and developer tools at [Raintree Technology](https://github.com/raintree-technology).
+Applied AI product engineer building reliable agent workflows and developer infrastructure at [Raintree Technology](https://github.com/raintree-technology).
 
-I work mostly in TypeScript and Python across full-stack applications, APIs, data systems, agent tooling, and evals.
+## Selected work
 
-## Selected Work
-
-- **[BetterOff](https://betteroff.finance)** - Household finance app with read-only account connections and cited answers.
-- **[FlightSweeper](https://flightsweeper.com)** - Airfare search and booking with Duffel, Stripe, MCP, and human-confirmed checkout.
-- **[docpull](https://github.com/raintree-technology/docpull)** - Local-first Python CLI and MCP server for turning web and document sources into cited context packs.
-- **[PolicyStrata](https://github.com/raintree-technology/policystrata)** - Tests policy drift across prompts, plans, SQL, database rules, and output filters.
-- **[HIG Doctor](https://github.com/raintree-technology/hig-doctor)** - Apple HIG reference and cross-framework UI audit tooling for agents.
-
-## Stack
-
-TypeScript · Python · React/Next.js · Node.js · PostgreSQL · MCP · Cloudflare
+- **[DocPull](https://github.com/raintree-technology/docpull)** — Turns changing websites into cited, reproducible context that agents can verify before they act.
+- **[PolicyStrata](https://github.com/raintree-technology/policystrata)** — Catches policy drift before release by turning cross-layer failures into deterministic, reproducible tests.
+- **[HIG Doctor](https://github.com/raintree-technology/hig-doctor)** — Checks Apple-platform code against the HIG and cross-platform code against aligned accessibility and interface-quality rules.
+- **[Trellis](https://github.com/raintree-technology/trellis)** — Catches risky shortcuts, security footguns, and structural debt with shared Biome checks and deterministic JSON fix lists.
 
 ## Links
 
-[Website](https://zacharyr0th.com) · [Raintree Technology](https://raintree.technology) · [GitHub](https://github.com/zacharyr0th)
+[Website](https://zacharyr0th.com) · [Raintree Technology](https://raintree.technology)
 
 <!-- Generated from zacharyr0th.com public-presence. Do not edit profile copy by hand. -->
