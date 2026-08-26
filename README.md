@@ -1,19 +1,18 @@
 # Zachary Roth
 
-Applied AI product engineer building reliable agent workflows and developer infrastructure at [Raintree Technology](https://github.com/raintree-technology).
+Senior product manager with hands-on engineering depth across fintech, digital assets, AI products, developer tools, and data systems.
 
-## Open source
+Previously, I product-managed [Solflare](https://solflare.com) as it grew to 500,000 users and co-owned a $100M+ ecosystem program at Aptos Labs. I now build and operate products independently at [Raintree Technology](https://github.com/raintree-technology).
+
+## Product
+
+- **[BetterOff](https://betteroff.finance)** — A household-finance product that brings spending, investments, assets, debts, and net worth into one current record, with inspectable answers grounded in customers' financial data.
+
+## Technical depth
 
 - **[DocPull](https://github.com/raintree-technology/docpull)** — Turns changing websites into cited, reproducible context that agents can verify before they act.
 - **[PolicyStrata](https://github.com/raintree-technology/policystrata)** — Catches policy drift before release by turning cross-layer failures into deterministic, reproducible tests.
 - **[HIG Doctor](https://github.com/raintree-technology/hig-doctor)** — Checks Apple-platform code against the HIG and cross-platform code against aligned accessibility and interface-quality rules.
-- **[Trellis](https://github.com/raintree-technology/trellis)** — Catches risky shortcuts, security footguns, and structural debt with shared Biome checks and deterministic JSON fix lists.
-- **[Raintree Standards](https://github.com/raintree-technology/raintree.standards)** — Defines testable requirements, evidence, task profiles, and exceptions for Raintree product and agent work. Pre-1.0.
-- **[SimpleOS](https://github.com/raintree-technology/SimpleOS)** — Experimental Unix-like 32-bit x86 operating system built from scratch in C and assembly that boots and runs in a browser.
-
-## Product
-
-- **[BetterOff](https://betteroff.finance)** — Brings spending, investments, assets, debts, and net worth into one view so people can see where they stand and what to do next.
 
 ## Links
 
